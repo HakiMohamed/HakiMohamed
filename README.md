@@ -7,15 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/elexperto19" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/elexperto19?logo=twitter&style=for-the-badge" alt="https://twitter.com/elexperto19" /></a> </p>
 
-- 🌱 I’m currently learning **Vue.js React.js Php JAVA**
+- 🌱 I’m currently learning **Vue.js React.js, AWS, Php, JAVA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HakiMohamed](https://github.com/HakiMohamed)
 
-- 💬 Ask me about **Php, Laravel**
+- 💬 Ask me about **React, Nestjs, Symfony, Nodejs, Vuesjs, AWS, Express, Php, Laravel**
 
 - 📫 How to reach me **Mohamedhaki70@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left"> https://mohamedhaki.vercel.app </p>
+<a href="https://mohamedhaki.vercel.app/">visite my portfolio</a>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/elexperto19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/elexperto19" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-haki-64534a204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-haki-64534a204/" height="30" width="40" /></a>
